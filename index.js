@@ -1,19 +1,19 @@
-function add()
+function add(a, b)
 {
-  
+  return a + b
 }
 
-function subtract()
+function subtract(a, b)
 {
-  
+  return a - b
 }
 
-function multiply()
+function multiply(a, b)
 {
-  2*3.4
+  return a*b
 }
 
-function divide()
+function divide(a, b)
 {
-  5.0/2.5
+  return a/b
 }
